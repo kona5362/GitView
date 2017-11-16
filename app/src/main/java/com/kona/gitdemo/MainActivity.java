@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("ss", "onCreate: ");
         //////
+        /////克隆修改
         //////gaha
     }
 }
